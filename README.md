@@ -1,6 +1,16 @@
-# 🌤️ Weather Bot — FastAPI Webhook
 
-FastAPI backend for the Dialogflow ES Weather Bot using OpenWeatherMap API.
+# 🌤️ Weather Info & Forecast Bot
+
+### Dialogflow ES × FastAPI × OpenWeatherMap
+
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.111-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Dialogflow](https://img.shields.io/badge/Dialogflow-ES-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)](https://dialogflow.cloud.google.com)
+[![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-API-E96E2C?style=for-the-badge&logo=openweathermap&logoColor=white)](https://openweathermap.org/api)
+[![ngrok](https://img.shields.io/badge/ngrok-Tunnel-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)](https://ngrok.com)
+
+> A production-ready conversational weather bot that delivers real-time and forecasted weather data
+> for any city worldwide — built with Google Dialogflow ES, a FastAPI webhook backend, and the OpenWeatherMap API.
 
 ---
 
