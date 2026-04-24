@@ -153,8 +153,3 @@ curl -X POST http://localhost:8000/webhook \
 
 ---
 
-## ⚠️ Notes
-
-- Past dates return an error message (cannot show historical weather on free tier)
-- Forecast is capped at 5 days
-- Free tier of OpenWeatherMap gives 5-day/3-hour forecast; for full 8-day you need One Call 3.0
