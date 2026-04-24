@@ -68,7 +68,7 @@ OPENWEATHER_API_KEY=your_actual_key_here
 
 Get your free key at: https://openweathermap.org/api
 - Register → My API Keys → Copy the default key
-- For 8-day forecast: subscribe to "One Call API 3.0" (has a free tier with 1000 calls/day)
+
 
 ---
 
@@ -146,5 +146,5 @@ curl -X POST http://localhost:8000/webhook \
 ## ⚠️ Notes
 
 - Past dates return an error message (cannot show historical weather on free tier)
-- Forecast is capped at 8 days
+- Forecast is capped at 5 days
 - Free tier of OpenWeatherMap gives 5-day/3-hour forecast; for full 8-day you need One Call 3.0
